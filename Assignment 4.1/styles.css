@@ -1,0 +1,11 @@
+
+div.third p{
+	font-size: 15px;
+}
+
+
+div.third li:nth-child(3) {
+	background: blue;
+	text-decoration: none;
+
+}
